@@ -1,0 +1,24 @@
+ros-melodic-rqt-play-motion-builder (1.0.2-1bionic) bionic; urgency=high
+
+
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Wed, 21 Oct 2020 22:00:00 -0000
+
+ros-melodic-rqt-play-motion-builder (1.0.1-1bionic) bionic; urgency=high
+
+  * REname projecto to comply with naming scheme
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Tue, 20 Oct 2020 22:00:00 -0000
+
+ros-melodic-rqt-play-motion-builder (1.0.0-1bionic) bionic; urgency=high
+
+  * Fix dependencies and CMakeFile
+  * Add missing build dependencies
+  * Fix dependencies for RQT-plugin
+  * Initial commit
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Wed, 14 Oct 2020 22:00:00 -0000
+
+
